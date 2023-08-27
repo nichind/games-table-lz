@@ -1,0 +1,13 @@
+{
+
+  "folders": {
+    "games": "./databases/games.sqlite3"
+  },
+
+  "filters": {
+    "1": "name",
+    "2": "studio",
+    "3": "year"
+  }
+
+}
